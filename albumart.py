@@ -4,7 +4,7 @@ import openai
 import requests
 import wget
 
-openai.api_key = ""
+openai.api_key = "API Key here"
 
 
 # Sad/Happy - Sad
